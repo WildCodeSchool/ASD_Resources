@@ -26,10 +26,10 @@ echo "#                             À toi de jouer !                           
 echo -e "##############################################################################\n"
 echo "La construction de la maison est terminée ! Le jeu peut commencer."
 echo "Règles du jeu :"
-echo "Vous êtes dans une magnifique maison, composée de 4 pièces, à la recherche d'un trésor légendaire dont votre formateur à la Wild vous a parlé."
-echo "Utilisez les commandes 'ls' et 'cd' pour vous déplacer à travers celle-ci et trouver un coffre à trésor."
-echo "Utilisez 'cat' pour afficher le contenu des différents éléments que vous trouvez au fur et à mesure de votre exploration."
-echo "Une fois en possession du contenu du coffre, venez compléter la quête qui vous a mener ici :)."
+echo "Tu es dans une magnifique maison, composée de 4 pièces, à la recherche d'un trésor légendaire."
+echo "Utilise les commandes 'ls' et 'cd' pour te déplacer à travers celle-ci et trouver un coffre à trésor."
+echo "Utilise 'cat' pour afficher le contenu des différents éléments que tu trouves au fur et à mesure de ton exploration."
+echo "Une fois en possession du contenu du coffre, complétes la quête qui t'a mené ici :)."
 echo "Bonne chasse !"
 
 # Indiquez comment commencer
